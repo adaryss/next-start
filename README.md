@@ -1,5 +1,5 @@
-##Set up:
-
+## Set up:
+Next.js
 eslint
 stylelint
 stylelint + styled-components
